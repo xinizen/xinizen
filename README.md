@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and tech.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on Web dev.
-- 📫 How to reach me email -sungjinwoo9470@gmail.com
+- 📫 How to reach me email - xinizen@yahoo.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: all-rounder.
 
